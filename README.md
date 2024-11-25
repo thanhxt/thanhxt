@@ -5,7 +5,7 @@
 </p>
 
 <p>
- <a href="https://www.linkedin.com/in/douglaspigoulart/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+ <a href="https://www.linkedin.com/in/xuanthanhtran/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 </p>
 
 ## 🧰 Main tools
